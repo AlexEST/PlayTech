@@ -1,0 +1,15 @@
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\refs\InputRef.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\Report.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\impl\StringFormatterTransformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\XmlParser.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\impl\MathOperationTransformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\column\Column.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\impl\DateTimeFormatterTransformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\impl\AggregatorTransformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\impl\OrderingTransformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\ReportGenerator.java
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\adapters\ColumnAdapter.java
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\helpers\Parameters.java
+D:\Code\PlayTech\src\main\java\com\playtech\report\transformer\Transformer.java
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\helpers\TransformerWrapper.java
+D:\Code\PlayTech\src\main\java\com\playtech\util\xml\adapters\TransformerAdapter.java
