@@ -1,4 +1,4 @@
-# Java Developer Test Assignment
+# Java Developer Test Assignment (My implementation for the following task)
 
 ## Introduction
 In the mystical land of Java, the kingdom's Grand Casino has been bustling with activity. The High Council of Playtech 
@@ -299,14 +299,3 @@ Example output directory has been provided in the assignment directory. **The di
 - Input data can contain faulty lines (e.g. column count is not the same as header count, column is not corresponding to the type), these lines should be skipped and the program should not fail.
 - Reports do not have any mistakes in them, they can be parsed as is without any exception checking.
 
-
-------
-
-**How to submit your assignment:**
-
-- We expect zip file that contains all source code files (.java).
-- You can also include any testing input files you created.
-- Email link to the solution back to us by 03.04.2025 as a reply to the original email the assignment was sent from. Don't mind it's from notifications@smartrecruiters.com, we will get it.
-- Don't send solution as attachment to email. Send it to us via link to Google Drive or some other online file sharing platform.
-
-Feel free to reach out if you need any further clarification. We encourage all submissions, even if they aren't fully completed. Good luck!
